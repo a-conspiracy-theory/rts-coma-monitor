@@ -66,7 +66,7 @@ one feature that was greatly simplified was the webpage interface. For this task
 * **D** - "critical condition" event group. hr, tmp, oxy bits. if any are outside of normal ranges, respective task sets the bit.
 
 ### Determinism Proof
-* "event handler" task duration readout
+* **D** - "event handler" task duration readout
 * **D** - System Heartbeat LED with timestamp
 
 ### Company Context

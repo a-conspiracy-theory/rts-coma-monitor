@@ -1,11 +1,11 @@
-Company Synopsys
+##Company Synopsys
     	I chose to implement a healthcare product. This company specializes in unresponsive patient care, as many elderly patients in Florida ultimately fall in to some sort of unresponsive state before their final passing. This project aims to monitor patients while they are in this state, and if their vital signs exceed threshold values, call an emergency code to their room. We aim to assist nurses in their care of unresponsive patients.
 
-AI USE:
+##AI USE:
     Debugging - determined my logical vs bitwise OR in line 603 was causing a latching effect with temp and oxygen sensor tasks.
     Code - initial help with writing the webpage, It taught me how to use HTML and how to use inserted characters
 
-DISUSE OF WOKWI:
+##DISUSE OF WOKWI:
     When trying to set up the wokwi web server in APP#5, it said i had to pay to use it. Rather than do this i used my own physical esp32 (laying around) to create a true real-time system with an actual web interface. Because of this, I am unable to use the "Wokwi Logic Analyze". I hope that you will be kind in grading and not give partial credit for something that i cannot utilize. 
 
 

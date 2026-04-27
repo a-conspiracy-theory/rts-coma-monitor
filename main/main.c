@@ -128,8 +128,8 @@ char sensor_data_string[1024] = "";
 /*-----------------------------------------------------------WIFI-----------------------------------------------------------*/
 
 //                                                           vars
-#define EXAMPLE_ESP_WIFI_SSID "chudtopia"
-#define EXAMPLE_ESP_WIFI_PASS "Holiday1980!"
+#define EXAMPLE_ESP_WIFI_SSID ""
+#define EXAMPLE_ESP_WIFI_PASS ""
 #define EXAMPLE_ESP_MAXIMUM_RETRY 5
 
 #define CONFIG_LOG_DEFAULT_LEVEL_INFO 1
